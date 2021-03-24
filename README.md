@@ -1,3 +1,3 @@
 # Doctor-Patient-Management-
 
-File data management system project
+Stacks used- BAckend->MySQL
